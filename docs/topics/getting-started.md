@@ -17,7 +17,7 @@ or signing up for the free [Kotlin Basics track](https://hyperskill.org/tracks/1
 
 <tab title="Backend app">
 
-Here is how you can take the first steps in developing Kotlin server-side applications.
+Here is how you can take the first steps in developing Kotlin server-sided applications.
 
 1. **Install the [latest version of IntelliJ IDEA](https://www.jetbrains.com/idea/download/index.html).**
 
